@@ -1,0 +1,4 @@
+.secret
+.DS_Store
+service_key.json
+node_modules/
